@@ -1,0 +1,314 @@
+{
+  "name": "Kingdom Rush",
+  "domain": "kingdomrush.online",
+  "slug": "kingdomrush",
+  "genre": "Tower Defense",
+  "iframeUrl": "/game/index.html",
+
+  "seo": {
+    "title": "Kingdom Rush – Free Tower Defense Game Online",
+    "description": "Play Kingdom Rush free online — a classic tower defense game in your browser. Place towers, stop enemy waves and defend your kingdom. No download required.",
+    "keywords": ["Kingdom Rush", "Kingdom Rush online", "free tower defense game", "tower defense browser game", "online TD game no download", "play tower defense free", "Kingdom Rush no account"]
+  },
+
+  "homepage": {
+    "heroHeadline": "Kingdom Rush — Free Tower Defense Game Online",
+    "heroSubtitle": "Place towers, stop enemy waves, and defend your kingdom. No download, no account required.",
+    "lede": "Kingdom Rush is a free tower defense game that runs entirely in your browser. Place defensive towers along enemy paths, manage upgrades between waves, and prevent enemies from breaching your base — all without installing anything.",
+    "stats": [
+      { "value": "12+",  "label": "Maps to Defend" },
+      { "value": "4",    "label": "Tower Types" },
+      { "value": "0",    "label": "Downloads Needed" },
+      { "value": "100%", "label": "Free Forever" }
+    ],
+    "about": {
+      "kicker": "What is Kingdom Rush?",
+      "headline": "Strategic tower placement that rewards careful planning and wave reading.",
+      "paragraph1": "Kingdom Rush puts you in command of a medieval defence line. Before each wave, you place towers — archers, mages, barracks, and artillery — along the enemy path. When the wave starts, every placement decision matters. Misplace a tower and enemies get through.",
+      "paragraph2": "Between waves, gold earned from kills lets you upgrade existing towers or build new ones. The game loads directly in your browser with no installation or account required. Open the page and your first map is ready within seconds."
+    },
+    "howToPlay": {
+      "headline": "Master tower defense in under ten minutes.",
+      "subheading": "The strategy gets deep fast, but the fundamentals are simple to pick up from your very first map."
+    },
+    "steps": [
+      { "icon": "folder",       "title": "Open the Game",               "desc": "Navigate to the Play page. Kingdom Rush loads instantly in your browser with no installation needed." },
+      { "icon": "eye",          "title": "Study the Enemy Path",        "desc": "Before placing anything, trace the route enemies will follow. The path dictates where your towers will have the most coverage." },
+      { "icon": "refresh",      "title": "Place Your First Towers",     "desc": "Click empty ground near the path to build a tower. Start with archer towers for reliable early-wave damage at low cost." },
+      { "icon": "puzzle",       "title": "Upgrade Between Waves",       "desc": "Use gold earned from kills to upgrade existing towers. A few upgraded towers outperform many basic ones at the same gold cost." },
+      { "icon": "check-circle", "title": "Defend the Base",             "desc": "Stop all enemies from reaching the exit. Every wave cleared earns stars toward unlocking the next map." }
+    ],
+    "categories": [
+      { "name": "Skirmish",  "icon": "star",   "color": "#10b981", "bg": "#d1fae5", "img": "/level-thumbs/category-1.webp" },
+      { "name": "Patrol",    "icon": "target", "color": "#3b82f6", "bg": "#dbeafe", "img": "/level-thumbs/category-2.webp" },
+      { "name": "Siege",     "icon": "zap",    "color": "#f59e0b", "bg": "#fef3c7", "img": "/level-thumbs/category-3.webp" },
+      { "name": "Fortress",  "icon": "trophy", "color": "#8b5cf6", "bg": "#ede9fe", "img": "/level-thumbs/category-4.webp" },
+      { "name": "Warlord",   "icon": "crown",  "color": "#ef4444", "bg": "#fee2e2", "img": "/level-thumbs/category-5.webp" }
+    ],
+    "features": [
+      { "icon": "bolt",   "title": "Instant Browser Play",     "desc": "Open Kingdom Rush in any modern browser and start defending immediately. No download, no plugin, no app store required." },
+      { "icon": "target", "title": "Wave-Based Strategy",      "desc": "Each level unfolds across multiple enemy waves of increasing difficulty. Plan tower placements before each wave to maximise coverage." },
+      { "icon": "device", "title": "Plays on Any Device",      "desc": "Kingdom Rush runs on desktop and mobile browsers without modification. Switch between devices and pick up where you left off." },
+      { "icon": "image",  "title": "Hand-Crafted Maps",        "desc": "Each map has a unique layout with its own path geometry, terrain features, and strategic chokepoints to discover and exploit." },
+      { "icon": "shield", "title": "Safe for All Ages",        "desc": "No in-app purchases, no adverts targeting children, and no account registration required. Safe for kids to play in a browser." },
+      { "icon": "music",  "title": "Full Audio & SFX",         "desc": "Battle sound effects and a medieval-themed soundtrack give every wave a satisfying rhythm. Toggle audio on or off at any time." }
+    ],
+    "faq": [
+      { "q": "What is Kingdom Rush?",             "a": "Kingdom Rush is a tower defense game where you place medieval towers along enemy paths to stop waves of attacking units. It runs entirely in your browser with no download needed." },
+      { "q": "Is Kingdom Rush free?",             "a": "Yes. Kingdom Rush is completely free to play. There are no premium levels, no pay-to-win mechanics, and no hidden charges of any kind." },
+      { "q": "Does Kingdom Rush work on mobile?", "a": "Yes. The game runs in mobile browsers on iOS and Android as well as desktop. No app download is required." },
+      { "q": "How many levels are there?",        "a": "Kingdom Rush features over twelve maps, each with multiple difficulty settings and wave configurations to work through." },
+      { "q": "Is Kingdom Rush safe for kids?",    "a": "Kingdom Rush contains mild fantasy combat with cartoon-style visuals. There are no ads targeting children and no in-app purchases. It is safe for supervised browser play." },
+      { "q": "Do I need an account?",             "a": "No account is required. Open the game and play immediately. Your progress is saved locally in your browser — no registration needed." }
+    ],
+    "cta": {
+      "headline": "Ready to defend the kingdom?",
+      "subtext": "Open Kingdom Rush in your browser — no download, no sign-up. Just click and start placing towers."
+    }
+  },
+
+  "playPage": {
+    "howItWorksSubtitle": "Three steps to start defending. Kingdom Rush is straightforward to pick up — the strategic depth comes from the waves themselves.",
+    "steps": [
+      { "title": "Open the Map",        "desc": "Select a level from the map screen. Each stage shows you the enemy path before you place a single tower." },
+      { "title": "Build Your Defence",  "desc": "Click or tap empty ground adjacent to the path to place towers. Start near the entrance to catch enemies early in their route." },
+      { "title": "Survive the Waves",   "desc": "Waves launch automatically. Spend gold between waves on upgrades. Clear all waves without enemies breaching the exit to complete the map." }
+    ]
+  },
+
+  "faqPage": {
+    "items": [
+      { "q": "Is Kingdom Rush really free?",        "a": "Kingdom Rush is fully free. There are no premium tiers, no paid upgrades, and no subscription fees. The complete game runs free in your browser." },
+      { "q": "What devices can I play on?",         "a": "Kingdom Rush runs on any device with a modern web browser — desktop computers, tablets, and smartphones. No app download is required." },
+      { "q": "How does the game work?",             "a": "You place defensive towers along the route enemies travel. Each wave sends more enemies. Gold earned from kills funds new towers and upgrades between waves." },
+      { "q": "How many levels are there?",          "a": "The game includes over twelve maps, each with Normal and Iron Challenge difficulty modes. Heroic Challenge settings are available on harder maps." },
+      { "q": "Can I play offline?",                 "a": "Kingdom Rush requires an internet connection to load. Once loaded it may function offline for a session, but a connection is needed to start the game." },
+      { "q": "Is my progress saved?",              "a": "Progress is saved automatically in your browser's local storage. Clearing your browser data may reset it. No account is required to save progress." },
+      { "q": "Is Kingdom Rush safe for children?",  "a": "Yes. The game uses cartoon-style fantasy visuals. There are no ads targeting children and no in-app purchases. The browser version is safe for supervised play." },
+      { "q": "Do I need to create an account?",    "a": "No account is required. Open the page and start playing immediately. Registration is not required for any game feature." }
+    ]
+  },
+
+  "howToPlayPage": {
+    "intro": "Kingdom Rush is a tower defense game. Your job is to stop waves of enemies from crossing the map by placing and upgrading towers along their path. Towers attack automatically once built — your role is choosing where to build, which type to use, and when to upgrade.",
+    "steps": [
+      { "title": "Select a Map",               "desc": "Choose your starting map from the level select screen. Each map displays the enemy path and the available tower placement positions." },
+      { "title": "Place Towers Strategically", "desc": "Click ground tiles adjacent to the enemy path to build towers. Archer towers provide steady damage; mage towers handle armoured foes; barracks deploy soldiers to block the path; artillery deals area damage to groups." },
+      { "title": "Upgrade and Adapt",          "desc": "After each wave, upgrade key towers using gold. Prioritise towers at chokepoints — the bends in the path where enemies slow down and spend more time in range." }
+    ],
+    "mechanic": {
+      "title": "Tower Types Explained",
+      "desc": "Kingdom Rush has four core tower types. Archer towers are your workhorses — reliable, cheap, and effective against most enemy types. Mage towers deal magical damage that bypasses physical armour. Barracks deploy soldiers that physically block enemies, giving other towers more time to fire. Artillery towers deal splash damage to groups but have a slow fire rate. Knowing when to use each type is the core skill of the game."
+    },
+    "difficultyProgression": "Early maps introduce one or two enemy types on straightforward paths. Later maps add flying units, armoured behemoths, and enemies that split into smaller foes on death. Map geometry also becomes more complex — longer paths with fewer tower slots force harder trade-offs between coverage and firepower.",
+    "tips": [
+      { "title": "Cover Chokepoints First",    "desc": "Build your first towers where the enemy path bends most sharply. Units slow slightly on curves, which means more time in your towers' firing range and more damage per gold spent." },
+      { "title": "Upgrade Before Expanding",  "desc": "A level-3 archer tower destroys far more enemies per gold spent than three level-1 towers. Concentrate upgrades on high-traffic chokepoint positions before spending gold on new placements." },
+      { "title": "Use Barracks to Block",     "desc": "Barracks deploy soldiers that physically intercept enemies. Blocking a cluster at a chokepoint buys several extra seconds of fire time for your damage towers — use this on the toughest wave compositions." },
+      { "title": "Save Stars for Hard Levels","desc": "Stars earned on earlier maps unlock abilities you can spend on harder stages. Do not use them until you genuinely need the extra power — saving them for a tough map is always the better call." },
+      { "title": "Learn Enemy Weaknesses",    "desc": "Armoured units resist physical damage but take full magical damage from mage towers. Fast units are better stopped by barracks than outrun by archer fire. Read the enemy card before each wave." }
+    ]
+  },
+
+  "blog": {
+    "headline": "Guides &amp; Strategy",
+    "subheading": "In-depth guides, tips, and strategy for Kingdom Rush players at every skill level.",
+    "introParagraph": "Kingdom Rush rewards players who understand tower placement, wave composition, and upgrade priority. Whether you are starting your first map or stuck on a hard difficulty challenge, these guides cover the specific knowledge that makes the difference.",
+    "posts": [
+      {
+        "slug": "getting-started",
+        "title": "Getting Started with Kingdom Rush: A Complete Beginner's Guide",
+        "excerpt": "New to tower defense? This guide walks you through Kingdom Rush from your first map to your first victory — covering towers, waves, and the upgrade decisions that make the difference.",
+        "category": "Guide",
+        "readTime": "5 min read",
+        "date": "2026-01-01",
+        "icon": "🗺️",
+        "sections": [
+          {
+            "heading": "What Is Kingdom Rush?",
+            "paragraphs": [
+              "Kingdom Rush is a tower defense game set in a fantasy medieval world. You place defensive towers on empty terrain beside an enemy path and stop waves of orcs, trolls, demons, and other creatures from crossing the map. Each tower attacks automatically once built — your job is deciding where to place them, which to upgrade, and when to build new ones.",
+              "The game runs entirely in a browser. There is no download, no install, and no account required. Open the play page, choose a map, and the first wave starts within seconds. Kingdom Rush shaped many of the conventions that modern tower defense games still follow today."
+            ]
+          },
+          {
+            "heading": "How to Open the Game",
+            "paragraphs": [
+              "Navigate to the Play page on kingdomrush.online. The game loads in your browser within a few seconds. No plugins, no Unity client, no app store download required. Click Play on the menu screen and you reach the map selection screen directly.",
+              "The first map — Southport — is unlocked by default. Later maps unlock as you earn stars by completing earlier stages. The game saves your progress to your browser's local storage automatically, so you can close the tab and return where you left off."
+            ]
+          },
+          {
+            "heading": "Your First Five Minutes",
+            "paragraphs": [
+              "Start on Southport. The enemy path is clearly marked. You have a small amount of starting gold — build one or two archer towers near the first bend in the path, where enemies will be in range the longest. Resist the urge to place towers everywhere immediately. A concentrated defence at a chokepoint performs better than scattered single towers.",
+              "The first wave arrives and your towers begin firing automatically. Watch which enemy types appear. After the wave, spend your gold upgrading the towers that performed best rather than building new ones. Upgraded towers deal significantly more damage per gold invested at early levels."
+            ]
+          },
+          {
+            "heading": "Ready to Play?",
+            "paragraphs": [
+              "Tower defense games reward observation and iteration. Your first run through a map may not go perfectly — that is fine. Note which towers felt underpowered, which enemy types slipped through, and adjust your placement on the next attempt. Kingdom Rush's early maps are forgiving enough to let you learn by doing."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "tips-and-tricks",
+        "title": "Top Tips & Tricks for Kingdom Rush",
+        "excerpt": "Practical tips for placing towers smarter, spending gold better, and stopping the toughest enemy waves — applicable from the first map to the hardest endgame stages.",
+        "category": "Strategy",
+        "readTime": "7 min read",
+        "date": "2026-01-05",
+        "icon": "💡",
+        "sections": [
+          {
+            "heading": "Master the Fundamentals",
+            "paragraphs": [
+              "The most important skill in Kingdom Rush is tower placement. Every map has a fixed number of ground tiles adjacent to the path. Your towers compete for those positions, and not all positions are equal. Tiles at sharp bends in the path have a longer effective firing window — enemies spend more time near a curved tile, taking more hits from a tower placed there.",
+              "Start each map by identifying the sharpest bends before you spend a single gold coin. Place your first two or three towers at those positions. Fill remaining slots only after you have concentrated your best coverage at the bottlenecks."
+            ]
+          },
+          {
+            "heading": "Think Before You Act",
+            "paragraphs": [
+              "Kingdom Rush gives you time between waves. Use it. Before clicking to build a tower, consider which enemy types are coming next. The wave list in the top-right corner tells you exactly what each incoming wave contains. If the next wave is heavily armoured units, a new mage tower beats a new archer tower — even if the archer tower is cheaper.",
+              "The temptation is to spend gold the moment you earn it. Resist it. Holding gold until the right moment — a tough wave, a gap in coverage, an upgrade that crosses a damage threshold — is often more effective than spending immediately after each wave ends."
+            ]
+          },
+          {
+            "heading": "Recognise Patterns Early",
+            "paragraphs": [
+              "Each Kingdom Rush map has a rhythm. Some maps send many weak enemies per wave. Others send a few tanky enemies. Weak-enemy maps favour splash-damage artillery towers that hit multiple units simultaneously. Single-target archer and mage towers are more efficient against individual tanky enemies. Recognise which category a map falls into before wave three.",
+              "Boss enemies appear at the end of several maps. Bosses have very high health and do not behave like standard units. Reinforce your chokepoints before the boss wave rather than after it — by the time a boss is already approaching, it is too late to build a meaningful response."
+            ]
+          },
+          {
+            "heading": "Advanced Techniques",
+            "paragraphs": [
+              "The Reinforcements ability sends soldiers to any point on the path for a few seconds. Use it to hold an enemy cluster at a chokepoint while your towers fire. Timing this correctly on the toughest waves provides a significant damage window. The Meteor Strike ability deals massive area damage — save it for clustered groups of enemies, especially boss waves or simultaneous multi-group assaults.",
+              "On harder maps, a barracks tower at a path bottleneck combined with a mage tower immediately behind it is one of the strongest defensive combinations. The soldiers block enemies in place; the mage tower ignores their armour and deals sustained magical damage. This combination handles armoured units that archer-heavy defences consistently struggle against."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "game-benefits",
+        "title": "The Cognitive Benefits of Playing Kingdom Rush",
+        "excerpt": "Tower defense games exercise planning, resource management, and spatial reasoning in ways that are genuinely beneficial for the brain.",
+        "category": "Science",
+        "readTime": "6 min read",
+        "date": "2026-01-10",
+        "icon": "🧠",
+        "sections": [
+          {
+            "heading": "Games and the Brain",
+            "paragraphs": [
+              "Strategy games require players to manage multiple variables simultaneously — resource allocation, threat prioritisation, spatial positioning, and timing. Research into strategy gaming consistently shows improvements in working memory and executive function in regular players. Kingdom Rush fits squarely into this category. Every wave asks you to track enemy positions, manage gold reserves, monitor tower cooldowns, and plan future placements — all at once.",
+              "These are not passive cognitive tasks. The time-limited decision-making during waves forces rapid assessment and action, while the gaps between waves allow for deliberate forward planning. That alternation between reactive thinking and deliberate strategy mirrors the cognitive demands of real-world planning problems."
+            ]
+          },
+          {
+            "heading": "Problem-Solving",
+            "paragraphs": [
+              "Tower defense maps are constrained optimisation puzzles. You have a fixed number of placement slots, a limited gold budget, and an adversarial system designed to expose weaknesses in your layout. Solving each map requires analysing the constraints, forming a hypothesis about the best layout, and testing it — then revising based on what failed.",
+              "This iterative process of hypothesis and revision is how engineers, analysts, and scientists approach hard problems. Playing games that demand this kind of structured thinking can reinforce the habit of testing assumptions rather than assuming the first solution is correct."
+            ]
+          },
+          {
+            "heading": "Stress Relief",
+            "paragraphs": [
+              "Strategy games offer a form of stress relief distinct from passive entertainment. The sense of competence and control that comes from solving a difficult problem — watching a challenging wave fail to break through a carefully constructed defence — triggers genuine satisfaction. Psychologists refer to this as mastery experience, and it is associated with improved mood and reduced anxiety.",
+              "Kingdom Rush's clear feedback system helps here. The game tells you immediately whether your placement worked. Failures are informative rather than punishing — you know exactly which part of your defence failed, which makes the next attempt feel purposeful rather than random."
+            ]
+          },
+          {
+            "heading": "Safe Screen Time",
+            "paragraphs": [
+              "For parents looking at supervised play, Kingdom Rush's browser version is notably clean. There are no in-app purchases, no targeted advertising, and no social features requiring registration. Children can engage with genuine strategic thinking without exposure to the monetisation mechanics common in mobile tower defense games.",
+              "The game's cartoon-style fantasy visuals and mild combat are appropriate for most age groups. Sessions are naturally bounded by map length — completing a map takes five to fifteen minutes — which makes it easy to set natural stopping points."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "how-to-improve",
+        "title": "How to Get Better at Kingdom Rush",
+        "excerpt": "Consistent improvement in Kingdom Rush comes from analysing what failed, not just replaying the same strategy. This guide covers the habits that separate improving players from those who stay stuck.",
+        "category": "Strategy",
+        "readTime": "8 min read",
+        "date": "2026-01-15",
+        "icon": "📈",
+        "sections": [
+          {
+            "heading": "Focus on Consistency",
+            "paragraphs": [
+              "The players who improve fastest in tower defense games are not the ones who try the most experimental builds — they are the ones who master the fundamentals and apply them consistently. Before trying advanced strategies, verify that your chokepoint coverage is solid, that you are always upgrading before expanding, and that your barracks placements are timed correctly.",
+              "Inconsistency at the fundamentals makes it hard to diagnose why a strategy failed. If you lost a wave, was it poor placement, wrong tower type, or insufficient upgrades? When fundamentals are locked in, the cause of failure becomes much clearer to identify."
+            ]
+          },
+          {
+            "heading": "Analyse Your Mistakes",
+            "paragraphs": [
+              "After each failed attempt at a map, spend thirty seconds identifying exactly where enemies broke through. Was it the first third of the path, the middle, or near the exit? Enemies that break through early indicate weak chokepoint coverage. Enemies that break through late indicate enough early damage but insufficient firepower before the exit.",
+              "Most Kingdom Rush failures fall into one of three categories: wrong tower type for the enemy composition, insufficient upgrade investment in key towers, or misidentification of the primary chokepoint. Categorising which failure you experienced points directly to the fix needed on the next attempt."
+            ]
+          },
+          {
+            "heading": "Build a Strategy",
+            "paragraphs": [
+              "Rather than placing towers reactively as gold arrives, plan your full tower layout for the map before wave one starts. Look at the path geometry, count the chokepoint positions, and decide in advance which tower types each position should hold at full build-out. Then execute that plan systematically.",
+              "Pre-planning applies to abilities too. Decide in advance which waves you expect to use Reinforcements and Meteor Strike on. Saving these for the wrong moment — or using them too early on manageable waves — is one of the most common reasons experienced players still fail hard maps."
+            ]
+          },
+          {
+            "heading": "Practice Regularly",
+            "paragraphs": [
+              "Tower defense pattern recognition improves with repetition. Playing the same map multiple times on higher difficulty settings trains you to read wave compositions faster and to identify optimal placements more quickly. Iron Challenge modes on completed maps are specifically designed for this kind of deliberate practice — they add new wave compositions to maps you already know well.",
+              "Short, focused sessions work better than long ones. Thirty minutes of careful, analytical play — where you stop after each failed wave to diagnose the problem — produces more improvement than two hours of replaying the same approach. Treat each map like a puzzle to solve, not a reflex test to pass."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "parents-guide",
+        "title": "Kingdom Rush for Kids: A Parent's Complete Guide",
+        "excerpt": "What parents need to know before letting children play Kingdom Rush online — content rating, safety features, educational value, and screen time recommendations.",
+        "category": "Family",
+        "readTime": "6 min read",
+        "date": "2026-01-20",
+        "icon": "👨‍👩‍👧",
+        "sections": [
+          {
+            "heading": "Is Kingdom Rush Safe for Children?",
+            "paragraphs": [
+              "Kingdom Rush's browser version contains no advertisements targeting children, no in-app purchases, and no social features requiring account creation. Children can access the game directly from a browser without any registration — and there is nothing to buy within the game. The only content is the game itself, which runs entirely on the page.",
+              "The combat in Kingdom Rush is fantasy-themed and cartoon in style. Enemies are defeated with visual effects rather than graphic violence. There is no blood, no realistic weaponry, and no age-restricted content. The game is broadly suitable for children aged eight and above, though younger children may find the strategic elements challenging."
+            ]
+          },
+          {
+            "heading": "What Will My Child Learn?",
+            "paragraphs": [
+              "Kingdom Rush teaches resource management, spatial reasoning, and strategic planning. Children must allocate limited gold across competing tower positions, anticipate future threats from the wave list, and revise plans when a strategy fails. These are transferable skills with real-world applications in mathematics, engineering, and planning.",
+              "The game also reinforces cause-and-effect reasoning. Every tower placement produces an observable outcome. Children learn to hypothesise, test, and revise — which is the core of scientific thinking. Games that make the consequences of decisions visible and immediate are useful tools for developing analytical habits."
+            ]
+          },
+          {
+            "heading": "Tips for Healthy Screen Time",
+            "paragraphs": [
+              "Kingdom Rush maps typically take five to fifteen minutes to complete. This makes it straightforward to set natural stopping points — completing a map is a clear finish line that works well as a session boundary. Setting a rule of one or two maps per sitting is easy to enforce.",
+              "The game does not include push notifications, daily login bonuses, or other mechanics designed to maximise daily active users. Sessions are genuinely self-contained, which means there is no engineered pressure to return immediately. This makes it easier for parents to maintain screen time boundaries without the game working against them."
+            ]
+          },
+          {
+            "heading": "COPPA Compliance",
+            "paragraphs": [
+              "The browser version of Kingdom Rush does not collect personal data from players and does not require account registration. There are no sign-up forms, no email collection, and no social features. Children under thirteen can play without any data being gathered about them.",
+              "Parents looking for browser games that are safe from a data-privacy standpoint will find Kingdom Rush straightforward. The absence of in-app purchases also means there is no risk of accidental charges — the game has no payment mechanism whatsoever in its browser form."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
