@@ -310,4 +310,14 @@ export const articleMeta: Record<string, ArticleMeta> = {
         category: 'Guides',
         readTime: '7 min read',
     },
+    'tower-placement-economy-guide': {
+        slug: 'tower-placement-economy-guide',
+        title: 'Kingdom Rush Tower Placement and Economy Guide: Win More Waves With Better Decisions',
+        description: 'Learn how tower placement, upgrade timing, chokepoints, and gold management work together in Kingdom Rush.',
+        datePublished: '2026-05-17',
+        dateModified: '2026-05-17',
+        keywords: ['Kingdom Rush tower placement', 'Kingdom Rush strategy guide', 'tower defense economy', 'Kingdom Rush tips'],
+        category: 'Strategy',
+        readTime: '12 min read',
+    },
 };

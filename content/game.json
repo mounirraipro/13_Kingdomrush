@@ -6,22 +6,40 @@
   "iframeUrl": "/game/index.html",
   "embedUrl": "https://html5.gamemonetize.co/cl7e235xgbyib1jsggiius7mrz5fc9ro/",
   "embedSource": "GameMonetize: Kingdom Rush - Tower Defense",
-
   "seo": {
     "title": "Kingdom Rush – Free Tower Defense Game Online",
     "description": "Play Kingdom Rush free online — a classic tower defense game in your browser. Place towers, stop enemy waves and defend your kingdom. No download required.",
-    "keywords": ["Kingdom Rush", "Kingdom Rush online", "free tower defense game", "tower defense browser game", "online TD game no download", "play tower defense free", "Kingdom Rush no account"]
+    "keywords": [
+      "Kingdom Rush",
+      "Kingdom Rush online",
+      "free tower defense game",
+      "tower defense browser game",
+      "online TD game no download",
+      "play tower defense free",
+      "Kingdom Rush no account"
+    ]
   },
-
   "homepage": {
     "heroHeadline": "Kingdom Rush — Free Tower Defense Game Online",
     "heroSubtitle": "Place towers, stop enemy waves, and defend your kingdom. No download, no account required.",
     "lede": "Kingdom Rush is a free tower defense game that runs entirely in your browser. Place defensive towers along enemy paths, manage upgrades between waves, and prevent enemies from breaching your base — all without installing anything.",
     "stats": [
-      { "value": "12+",  "label": "Maps to Defend" },
-      { "value": "4",    "label": "Tower Types" },
-      { "value": "0",    "label": "Downloads Needed" },
-      { "value": "100%", "label": "Free Forever" }
+      {
+        "value": "12+",
+        "label": "Maps to Defend"
+      },
+      {
+        "value": "4",
+        "label": "Tower Types"
+      },
+      {
+        "value": "0",
+        "label": "Downloads Needed"
+      },
+      {
+        "value": "100%",
+        "label": "Free Forever"
+      }
     ],
     "about": {
       "kicker": "What is Kingdom Rush?",
@@ -34,69 +52,200 @@
       "subheading": "The strategy gets deep fast, but the fundamentals are simple to pick up from your very first map."
     },
     "steps": [
-      { "icon": "folder",       "title": "Open the Game",               "desc": "Navigate to the Play page. Kingdom Rush loads instantly in your browser with no installation needed." },
-      { "icon": "eye",          "title": "Study the Enemy Path",        "desc": "Before placing anything, trace the route enemies will follow. The path dictates where your towers will have the most coverage." },
-      { "icon": "refresh",      "title": "Place Your First Towers",     "desc": "Click empty ground near the path to build a tower. Start with archer towers for reliable early-wave damage at low cost." },
-      { "icon": "puzzle",       "title": "Upgrade Between Waves",       "desc": "Use gold earned from kills to upgrade existing towers. A few upgraded towers outperform many basic ones at the same gold cost." },
-      { "icon": "check-circle", "title": "Defend the Base",             "desc": "Stop all enemies from reaching the exit. Every wave cleared earns stars toward unlocking the next map." }
+      {
+        "icon": "folder",
+        "title": "Open the Game",
+        "desc": "Navigate to the Play page. Kingdom Rush loads instantly in your browser with no installation needed."
+      },
+      {
+        "icon": "eye",
+        "title": "Study the Enemy Path",
+        "desc": "Before placing anything, trace the route enemies will follow. The path dictates where your towers will have the most coverage."
+      },
+      {
+        "icon": "refresh",
+        "title": "Place Your First Towers",
+        "desc": "Click empty ground near the path to build a tower. Start with archer towers for reliable early-wave damage at low cost."
+      },
+      {
+        "icon": "puzzle",
+        "title": "Upgrade Between Waves",
+        "desc": "Use gold earned from kills to upgrade existing towers. A few upgraded towers outperform many basic ones at the same gold cost."
+      },
+      {
+        "icon": "check-circle",
+        "title": "Defend the Base",
+        "desc": "Stop all enemies from reaching the exit. Every wave cleared earns stars toward unlocking the next map."
+      }
     ],
     "categories": [
-      { "name": "Skirmish",  "icon": "star",   "color": "#10b981", "bg": "#d1fae5", "img": "/level-thumbs/category-1.webp" },
-      { "name": "Patrol",    "icon": "target", "color": "#3b82f6", "bg": "#dbeafe", "img": "/level-thumbs/category-2.webp" },
-      { "name": "Siege",     "icon": "zap",    "color": "#f59e0b", "bg": "#fef3c7", "img": "/level-thumbs/category-3.webp" },
-      { "name": "Fortress",  "icon": "trophy", "color": "#8b5cf6", "bg": "#ede9fe", "img": "/level-thumbs/category-4.webp" },
-      { "name": "Warlord",   "icon": "crown",  "color": "#ef4444", "bg": "#fee2e2", "img": "/level-thumbs/category-5.webp" }
+      {
+        "name": "Skirmish",
+        "icon": "star",
+        "color": "#10b981",
+        "bg": "#d1fae5",
+        "img": "/level-thumbs/category-1.webp"
+      },
+      {
+        "name": "Patrol",
+        "icon": "target",
+        "color": "#3b82f6",
+        "bg": "#dbeafe",
+        "img": "/level-thumbs/category-2.webp"
+      },
+      {
+        "name": "Siege",
+        "icon": "zap",
+        "color": "#f59e0b",
+        "bg": "#fef3c7",
+        "img": "/level-thumbs/category-3.webp"
+      },
+      {
+        "name": "Fortress",
+        "icon": "trophy",
+        "color": "#8b5cf6",
+        "bg": "#ede9fe",
+        "img": "/level-thumbs/category-4.webp"
+      },
+      {
+        "name": "Warlord",
+        "icon": "crown",
+        "color": "#ef4444",
+        "bg": "#fee2e2",
+        "img": "/level-thumbs/category-5.webp"
+      }
     ],
     "features": [
-      { "icon": "bolt",   "title": "Instant Browser Play",     "desc": "Open Kingdom Rush in any modern browser and start defending immediately. No download, no plugin, no app store required." },
-      { "icon": "target", "title": "Wave-Based Strategy",      "desc": "Each level unfolds across multiple enemy waves of increasing difficulty. Plan tower placements before each wave to maximise coverage." },
-      { "icon": "device", "title": "Plays on Any Device",      "desc": "Kingdom Rush runs on desktop and mobile browsers without modification. Switch between devices and pick up where you left off." },
-      { "icon": "image",  "title": "Hand-Crafted Maps",        "desc": "Each map has a unique layout with its own path geometry, terrain features, and strategic chokepoints to discover and exploit." },
-      { "icon": "shield", "title": "Safe for All Ages",        "desc": "No in-app purchases, no adverts targeting children, and no account registration required. Safe for kids to play in a browser." },
-      { "icon": "music",  "title": "Full Audio & SFX",         "desc": "Battle sound effects and a medieval-themed soundtrack give every wave a satisfying rhythm. Toggle audio on or off at any time." }
+      {
+        "icon": "bolt",
+        "title": "Instant Browser Play",
+        "desc": "Open Kingdom Rush in any modern browser and start defending immediately. No download, no plugin, no app store required."
+      },
+      {
+        "icon": "target",
+        "title": "Wave-Based Strategy",
+        "desc": "Each level unfolds across multiple enemy waves of increasing difficulty. Plan tower placements before each wave to maximise coverage."
+      },
+      {
+        "icon": "device",
+        "title": "Plays on Any Device",
+        "desc": "Kingdom Rush runs on desktop and mobile browsers without modification. Switch between devices and pick up where you left off."
+      },
+      {
+        "icon": "image",
+        "title": "Hand-Crafted Maps",
+        "desc": "Each map has a unique layout with its own path geometry, terrain features, and strategic chokepoints to discover and exploit."
+      },
+      {
+        "icon": "shield",
+        "title": "Safe for All Ages",
+        "desc": "No in-app purchases, no adverts targeting children, and no account registration required. Safe for kids to play in a browser."
+      },
+      {
+        "icon": "music",
+        "title": "Full Audio & SFX",
+        "desc": "Battle sound effects and a medieval-themed soundtrack give every wave a satisfying rhythm. Toggle audio on or off at any time."
+      }
     ],
     "faq": [
-      { "q": "What is Kingdom Rush?",             "a": "Kingdom Rush is a tower defense game where you place medieval towers along enemy paths to stop waves of attacking units. It runs entirely in your browser with no download needed." },
-      { "q": "Is Kingdom Rush free?",             "a": "Yes. Kingdom Rush is completely free to play. There are no premium levels, no pay-to-win mechanics, and no hidden charges of any kind." },
-      { "q": "Does Kingdom Rush work on mobile?", "a": "Yes. The game runs in mobile browsers on iOS and Android as well as desktop. No app download is required." },
-      { "q": "How many levels are there?",        "a": "Kingdom Rush features over twelve maps, each with multiple difficulty settings and wave configurations to work through." },
-      { "q": "Is Kingdom Rush safe for kids?",    "a": "Kingdom Rush contains mild fantasy combat with cartoon-style visuals. There are no ads targeting children and no in-app purchases. It is safe for supervised browser play." },
-      { "q": "Do I need an account?",             "a": "No account is required. Open the game and play immediately. Your progress is saved locally in your browser — no registration needed." }
+      {
+        "q": "What is Kingdom Rush?",
+        "a": "Kingdom Rush is a tower defense game where you place medieval towers along enemy paths to stop waves of attacking units. It runs entirely in your browser with no download needed."
+      },
+      {
+        "q": "Is Kingdom Rush free?",
+        "a": "Yes. Kingdom Rush is completely free to play. There are no premium levels, no pay-to-win mechanics, and no hidden charges of any kind."
+      },
+      {
+        "q": "Does Kingdom Rush work on mobile?",
+        "a": "Yes. The game runs in mobile browsers on iOS and Android as well as desktop. No app download is required."
+      },
+      {
+        "q": "How many levels are there?",
+        "a": "Kingdom Rush features over twelve maps, each with multiple difficulty settings and wave configurations to work through."
+      },
+      {
+        "q": "Is Kingdom Rush safe for kids?",
+        "a": "Kingdom Rush contains mild fantasy combat with cartoon-style visuals. There are no ads targeting children and no in-app purchases. It is safe for supervised browser play."
+      },
+      {
+        "q": "Do I need an account?",
+        "a": "No account is required. Open the game and play immediately. Your progress is saved locally in your browser — no registration needed."
+      }
     ],
     "cta": {
       "headline": "Ready to defend the kingdom?",
       "subtext": "Open Kingdom Rush in your browser — no download, no sign-up. Just click and start placing towers."
     }
   },
-
   "playPage": {
     "howItWorksSubtitle": "Three steps to start defending. Kingdom Rush is straightforward to pick up — the strategic depth comes from the waves themselves.",
     "steps": [
-      { "title": "Open the Map",        "desc": "Select a level from the map screen. Each stage shows you the enemy path before you place a single tower." },
-      { "title": "Build Your Defence",  "desc": "Click or tap empty ground adjacent to the path to place towers. Start near the entrance to catch enemies early in their route." },
-      { "title": "Survive the Waves",   "desc": "Waves launch automatically. Spend gold between waves on upgrades. Clear all waves without enemies breaching the exit to complete the map." }
+      {
+        "title": "Open the Map",
+        "desc": "Select a level from the map screen. Each stage shows you the enemy path before you place a single tower."
+      },
+      {
+        "title": "Build Your Defence",
+        "desc": "Click or tap empty ground adjacent to the path to place towers. Start near the entrance to catch enemies early in their route."
+      },
+      {
+        "title": "Survive the Waves",
+        "desc": "Waves launch automatically. Spend gold between waves on upgrades. Clear all waves without enemies breaching the exit to complete the map."
+      }
     ]
   },
-
   "faqPage": {
     "items": [
-      { "q": "Is Kingdom Rush really free?",        "a": "Kingdom Rush is fully free. There are no premium tiers, no paid upgrades, and no subscription fees. The complete game runs free in your browser." },
-      { "q": "What devices can I play on?",         "a": "Kingdom Rush runs on any device with a modern web browser — desktop computers, tablets, and smartphones. No app download is required." },
-      { "q": "How does the game work?",             "a": "You place defensive towers along the route enemies travel. Each wave sends more enemies. Gold earned from kills funds new towers and upgrades between waves." },
-      { "q": "How many levels are there?",          "a": "The game includes over twelve maps, each with Normal and Iron Challenge difficulty modes. Heroic Challenge settings are available on harder maps." },
-      { "q": "Can I play offline?",                 "a": "Kingdom Rush requires an internet connection to load. Once loaded it may function offline for a session, but a connection is needed to start the game." },
-      { "q": "Is my progress saved?",              "a": "Progress is saved automatically in your browser's local storage. Clearing your browser data may reset it. No account is required to save progress." },
-      { "q": "Is Kingdom Rush safe for children?",  "a": "Yes. The game uses cartoon-style fantasy visuals. There are no ads targeting children and no in-app purchases. The browser version is safe for supervised play." },
-      { "q": "Do I need to create an account?",    "a": "No account is required. Open the page and start playing immediately. Registration is not required for any game feature." }
+      {
+        "q": "Is Kingdom Rush really free?",
+        "a": "Kingdom Rush is fully free. There are no premium tiers, no paid upgrades, and no subscription fees. The complete game runs free in your browser."
+      },
+      {
+        "q": "What devices can I play on?",
+        "a": "Kingdom Rush runs on any device with a modern web browser — desktop computers, tablets, and smartphones. No app download is required."
+      },
+      {
+        "q": "How does the game work?",
+        "a": "You place defensive towers along the route enemies travel. Each wave sends more enemies. Gold earned from kills funds new towers and upgrades between waves."
+      },
+      {
+        "q": "How many levels are there?",
+        "a": "The game includes over twelve maps, each with Normal and Iron Challenge difficulty modes. Heroic Challenge settings are available on harder maps."
+      },
+      {
+        "q": "Can I play offline?",
+        "a": "Kingdom Rush requires an internet connection to load. Once loaded it may function offline for a session, but a connection is needed to start the game."
+      },
+      {
+        "q": "Is my progress saved?",
+        "a": "Progress is saved automatically in your browser's local storage. Clearing your browser data may reset it. No account is required to save progress."
+      },
+      {
+        "q": "Is Kingdom Rush safe for children?",
+        "a": "Yes. The game uses cartoon-style fantasy visuals. There are no ads targeting children and no in-app purchases. The browser version is safe for supervised play."
+      },
+      {
+        "q": "Do I need to create an account?",
+        "a": "No account is required. Open the page and start playing immediately. Registration is not required for any game feature."
+      }
     ]
   },
-
   "howToPlayPage": {
     "intro": "Kingdom Rush is a tower defense game. Your job is to stop waves of enemies from crossing the map by placing and upgrading towers along their path. Towers attack automatically once built — your role is choosing where to build, which type to use, and when to upgrade.",
     "steps": [
-      { "title": "Select a Map",               "desc": "Choose your starting map from the level select screen. Each map displays the enemy path and the available tower placement positions." },
-      { "title": "Place Towers Strategically", "desc": "Click ground tiles adjacent to the enemy path to build towers. Archer towers provide steady damage; mage towers handle armoured foes; barracks deploy soldiers to block the path; artillery deals area damage to groups." },
-      { "title": "Upgrade and Adapt",          "desc": "After each wave, upgrade key towers using gold. Prioritise towers at chokepoints — the bends in the path where enemies slow down and spend more time in range." }
+      {
+        "title": "Select a Map",
+        "desc": "Choose your starting map from the level select screen. Each map displays the enemy path and the available tower placement positions."
+      },
+      {
+        "title": "Place Towers Strategically",
+        "desc": "Click ground tiles adjacent to the enemy path to build towers. Archer towers provide steady damage; mage towers handle armoured foes; barracks deploy soldiers to block the path; artillery deals area damage to groups."
+      },
+      {
+        "title": "Upgrade and Adapt",
+        "desc": "After each wave, upgrade key towers using gold. Prioritise towers at chokepoints — the bends in the path where enemies slow down and spend more time in range."
+      }
     ],
     "mechanic": {
       "title": "Tower Types Explained",
@@ -104,14 +253,28 @@
     },
     "difficultyProgression": "Early maps introduce one or two enemy types on straightforward paths. Later maps add flying units, armoured behemoths, and enemies that split into smaller foes on death. Map geometry also becomes more complex — longer paths with fewer tower slots force harder trade-offs between coverage and firepower.",
     "tips": [
-      { "title": "Cover Chokepoints First",    "desc": "Build your first towers where the enemy path bends most sharply. Units slow slightly on curves, which means more time in your towers' firing range and more damage per gold spent." },
-      { "title": "Upgrade Before Expanding",  "desc": "A level-3 archer tower destroys far more enemies per gold spent than three level-1 towers. Concentrate upgrades on high-traffic chokepoint positions before spending gold on new placements." },
-      { "title": "Use Barracks to Block",     "desc": "Barracks deploy soldiers that physically intercept enemies. Blocking a cluster at a chokepoint buys several extra seconds of fire time for your damage towers — use this on the toughest wave compositions." },
-      { "title": "Save Stars for Hard Levels","desc": "Stars earned on earlier maps unlock abilities you can spend on harder stages. Do not use them until you genuinely need the extra power — saving them for a tough map is always the better call." },
-      { "title": "Learn Enemy Weaknesses",    "desc": "Armoured units resist physical damage but take full magical damage from mage towers. Fast units are better stopped by barracks than outrun by archer fire. Read the enemy card before each wave." }
+      {
+        "title": "Cover Chokepoints First",
+        "desc": "Build your first towers where the enemy path bends most sharply. Units slow slightly on curves, which means more time in your towers' firing range and more damage per gold spent."
+      },
+      {
+        "title": "Upgrade Before Expanding",
+        "desc": "A level-3 archer tower destroys far more enemies per gold spent than three level-1 towers. Concentrate upgrades on high-traffic chokepoint positions before spending gold on new placements."
+      },
+      {
+        "title": "Use Barracks to Block",
+        "desc": "Barracks deploy soldiers that physically intercept enemies. Blocking a cluster at a chokepoint buys several extra seconds of fire time for your damage towers — use this on the toughest wave compositions."
+      },
+      {
+        "title": "Save Stars for Hard Levels",
+        "desc": "Stars earned on earlier maps unlock abilities you can spend on harder stages. Do not use them until you genuinely need the extra power — saving them for a tough map is always the better call."
+      },
+      {
+        "title": "Learn Enemy Weaknesses",
+        "desc": "Armoured units resist physical damage but take full magical damage from mage towers. Fast units are better stopped by barracks than outrun by archer fire. Read the enemy card before each wave."
+      }
     ]
   },
-
   "blog": {
     "headline": "Guides &amp; Strategy",
     "subheading": "In-depth guides, tips, and strategy for Kingdom Rush players at every skill level.",
@@ -307,6 +470,96 @@
             "paragraphs": [
               "The browser version of Kingdom Rush does not collect personal data from players and does not require account registration. There are no sign-up forms, no email collection, and no social features. Children under thirteen can play without any data being gathered about them.",
               "Parents looking for browser games that are safe from a data-privacy standpoint will find Kingdom Rush straightforward. The absence of in-app purchases also means there is no risk of accidental charges — the game has no payment mechanism whatsoever in its browser form."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "tower-placement-economy-guide",
+        "title": "Kingdom Rush Tower Placement and Economy Guide: Win More Waves With Better Decisions",
+        "excerpt": "Learn how tower placement, upgrade timing, chokepoints, and gold management work together in Kingdom Rush.",
+        "category": "Strategy",
+        "readTime": "12 min read",
+        "date": "2026-05-17",
+        "icon": "castle",
+        "sections": [
+          {
+            "heading": "Why Placement Beats Panic Building",
+            "paragraphs": [
+              "Kingdom Rush looks simple when the first waves arrive, but the game quickly exposes careless tower placement. A tower in a weak position does not just deal less damage. It also consumes gold that could have gone into a stronger chokepoint, a key upgrade, or an emergency response later in the map. Good players place towers where enemies spend the most time inside range, not wherever a slot happens to be empty.",
+              "Before starting a map, trace the enemy path with your eyes. Look for bends, loops, intersections, and long stretches where several towers can attack the same group. These locations create damage overlap. A tower that fires for six seconds at every enemy is worth far more than a tower that fires for two seconds at the edge of the route. Placement is the first economy decision of the match."
+            ]
+          },
+          {
+            "heading": "Understand What Each Tower Role Solves",
+            "paragraphs": [
+              "The basic tower types solve different problems. Archer towers give steady single-target pressure and help clean up light enemies. Barracks slow the wave by placing soldiers directly in the path. Mage towers handle armoured enemies that resist physical attacks. Artillery damages groups, especially when enemies cluster around soldiers or tight bends. Treat these roles as tools, not favourites.",
+              "A common mistake is building too many copies of the same comfortable tower. That works only until the wave composition changes. If fast enemies slip through, add control or coverage. If armoured enemies survive too long, add magic damage. If large groups overwhelm the path, add splash damage and stall them in the blast zone. A balanced defence answers the map instead of repeating one idea."
+            ]
+          },
+          {
+            "heading": "Use Barracks as Timing Tools",
+            "paragraphs": [
+              "Barracks do not exist only to deal damage. Their main value is time. Soldiers stop enemies long enough for archer, mage, and artillery towers to fire more shots. Place barracks where nearby damage towers can punish the stalled group. A barracks placed outside supporting fire wastes its best advantage because soldiers hold enemies in a spot where little damage follows.",
+              "Move the rally point with intention. Pulling soldiers slightly back can hold enemies inside a better kill zone. Moving them forward can catch a fast unit before it escapes. Do not leave rally points untouched for the whole level. Small adjustments during waves often decide whether a dangerous enemy dies under concentrated fire or walks out with a sliver of health."
+            ]
+          },
+          {
+            "heading": "Upgrade Deeply Before Spreading Too Wide",
+            "paragraphs": [
+              "New tower defense players often fill every build spot early. That feels productive, but it creates a line of weak towers that cannot handle tougher waves. Upgrades usually provide stronger returns than another basic tower in a mediocre position. A few well-placed towers upgraded at the right time can carry the early and middle waves with less gold waste.",
+              "The key is not to upgrade blindly. Upgrade the towers that already fire often. A tower at a central bend deserves investment because it participates in many fights. A tower near the end of the path may need an upgrade only if leaks become common. Spend gold where the tower has enough contact time to repay the investment."
+            ]
+          },
+          {
+            "heading": "Read Wave Composition Before Spending Gold",
+            "paragraphs": [
+              "Each wave tells you what kind of defence it will test. Fast light enemies test coverage and cleanup. Armoured enemies test magic damage. Large groups test artillery and stalling. Bigger enemies test sustained fire and ability timing. If you spend all your gold before reading the next wave, you may build the wrong answer and then scramble while enemies are already moving.",
+              "Pause mentally between waves, even if the game encourages quick starts. Ask which enemy type caused trouble last time and which type is coming next. Then spend with that problem in mind. This habit turns gold from a reaction button into a planning resource. The difference becomes obvious on harder maps, where one wrong purchase can weaken the entire defence."
+            ]
+          },
+          {
+            "heading": "Save Abilities for Problems Towers Cannot Solve",
+            "paragraphs": [
+              "Reinforcements and special attacks are strongest when they solve a specific crisis. Dropping them as soon as they refresh feels active, but it often wastes their value. Use reinforcements to delay a leak, catch a fast enemy, or hold a dangerous target inside tower range. Use heavy damage abilities when a cluster forms or when a high-health enemy threatens to cross the final stretch.",
+              "Good ability timing also protects your economy. If an ability handles a difficult wave, you can delay an unnecessary tower and save gold for a more important upgrade. Think of abilities as temporary towers with perfect placement. They give you a few seconds of control exactly where the map needs it, which is often better than building a permanent tower in a poor location."
+            ]
+          },
+          {
+            "heading": "Open With a Purpose",
+            "paragraphs": [
+              "The opening waves decide more than they appear to decide. Early enemies are weak, but the gold you spend against them shapes the whole map. A strong opening places one or two towers where they will stay useful for many waves. A weak opening fills random slots, then forces you to repair the layout later with expensive upgrades in poor positions.",
+              "Before wave one, choose the first kill zone. That is the place where most of your early damage should happen. Build around it, then expand only when the wave pattern demands more coverage. This gives your defence a centre of gravity. Every later purchase either strengthens that centre, protects it from a specific enemy type, or adds a cleanup layer near the exit."
+            ]
+          },
+          {
+            "heading": "Avoid Idle Towers",
+            "paragraphs": [
+              "An idle tower is an economy leak. It may look useful on the map, but if it spends half the wave waiting for enemies to enter range, its real value is low. Watch your towers during a wave. The best ones fire almost constantly during important moments. The weakest ones wake up late, shoot a few times, and then sit unused while the fight happens somewhere else.",
+              "When deciding whether to upgrade or build, ask which option creates the most active firing time. Upgrading a busy tower at a bend often beats building a new tower on a quiet edge. This habit improves every strategy because it connects spending decisions to actual damage output instead of map coverage that only looks impressive."
+            ]
+          },
+          {
+            "heading": "Match Damage Type to the Threat",
+            "paragraphs": [
+              "A defence can look strong and still fail because it deals the wrong kind of damage. Physical towers clean up light enemies well, but they struggle when armour becomes the main problem. Magic towers cut through armoured targets, but they do not always handle large groups efficiently. Artillery punishes clusters, yet it wastes value against scattered enemies if nothing holds them together.",
+              "Use the wave list as a shopping list for answers. If armour is coming, prepare magic before the wave reaches the first bend. If swarms are coming, create a place where soldiers can hold them under splash damage. If fast enemies are coming, make sure the final stretch has reliable cleanup. Matching damage to threat is the heart of strong tower defense economy."
+            ]
+          },
+          {
+            "heading": "Plan for Leaks Before They Happen",
+            "paragraphs": [
+              "Every strong defence has a cleanup layer. This can be an archer tower near the exit, a mage tower covering the final bend, or reinforcements saved for emergencies. Without cleanup, one fast enemy can turn a solid wave into lost lives. The goal is not to overbuild the exit; the goal is to give yourself one reliable answer when the main kill zone misses something.",
+              "Watch what leaks. If small fast units escape, improve attack speed, coverage, or final-path cleanup. If armoured units escape, the issue is usually damage type. If large groups leak together, your stall and splash damage are not aligned. Leak analysis is one of the cleanest ways to improve because it points directly at the missing piece in your defence."
+            ]
+          },
+          {
+            "heading": "Replay Maps as Strategy Practice",
+            "paragraphs": [
+              "Kingdom Rush becomes richer when you replay maps instead of rushing through them once. A replay lets you test a different opening, move barracks rally points more actively, or delay a tower to afford a key upgrade earlier. Because the wave structure is learnable, each replay gives clearer information about what the map actually demands.",
+              "Treat a failed map as a strategy draft, not a dead end. Note where enemies first broke through, which tower spent too much time idle, and which upgrade arrived too late. Then adjust the opening plan. Tower defense rewards this kind of iteration. The more deliberately you review a map, the more each attempt teaches.",
+              "For a cleaner review, change only one major decision on the next attempt. Try a different first tower, move the first barracks rally point, or delay an early upgrade to afford a stronger mid-wave answer. If you change five things at once, success becomes harder to understand. Controlled experiments make your strategy better map by map.",
+              "Keep a simple priority order in mind when replaying: improve the first kill zone, fix the enemy type that leaked most often, then strengthen cleanup near the end. This order prevents random spending and gives every replay a clear strategic purpose. When a map finally clicks, it usually happens because these small improvements start supporting each other. That is why patient analysis beats random rebuilding on difficult maps with tight wave timing and limited gold. The defence becomes planned rather than improvised under real map pressure."
             ]
           }
         ]
